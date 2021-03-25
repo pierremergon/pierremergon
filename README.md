@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pierremergon
+- 👋 Hi, I’m Mergon
 - 👀 I’m interested in designing and learning how things work. 
 - 🌱 I’m currently learning AWS development, FPGAs, building a CubeSat for my degree project, to monitor Plasma and magnetic field effects. 
 - 💞️ I’m looking to collaborate on Electronics development, or IOT sensor integration.
